@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1361643910
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e4981ed2a7c0b41b7891abab5cf30f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e19a299b959f5b712c049d7eedf4f33
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/P4/p42.jpg
+Dependencies: []
