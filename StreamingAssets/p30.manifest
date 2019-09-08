@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1707289190
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e2b96870965b4492aaf8bc78fcb147c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e19a299b959f5b712c049d7eedf4f33
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/P3/p30.jpg
+Dependencies: []
